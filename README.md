@@ -18,5 +18,3 @@ Text editor program with following features:
 15. Save
 16. Exit
 
-Made by:
-@KarimH537
