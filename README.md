@@ -19,4 +19,4 @@ Text editor program with following features:
 16. Exit
 
 Made by:
-@KarimH537, @Hazem Waheed, @MohamedEssam71
+@KarimH537
