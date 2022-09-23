@@ -18,4 +18,4 @@ Text editor program with following features:
 15. Save
 16. Exit
 
-Made by three FCAI-Cu students
+Made by: three FCAI-CU students
