@@ -17,3 +17,6 @@ Text editor program with following features:
 14. Turn file content to 1st caps (1st char of each word is capital) 
 15. Save
 16. Exit
+
+Made by:
+@KarimH537, @Hazem Waheed, @MohamedEssam71
